@@ -17,7 +17,10 @@ margin-bottom:20px;
 border:1px solid;
 border-radius: 3px;
 font-family: arial, helvetty; sans-serif;
-panding: 10px 10px 10px 10
+panding: 10px 10px 10px 10px;
+text-align: center;
+color:.  ..;
+background
 
 </head>
 <body>
