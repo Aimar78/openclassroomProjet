@@ -20,7 +20,13 @@ font-family: arial, helvetty; sans-serif;
 panding: 10px 10px 10px 10px;
 text-align: center;
 color:.  ..;
-background
+background-color:..;
+background-image: WebKit linear-gradient( top#...; #...);
+button;hover{
+border:1px solid#...;
+background-color#...
+background-image: webkit
+linear-gradient (top,#....,#...);
 
 </head>
 <body>
